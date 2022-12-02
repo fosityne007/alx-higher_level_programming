@@ -1,0 +1,1 @@
+## projects 0x02. Python - import & modules is about how to use  import functions from another file, how to use imported functions,how to create a module,how to use the built-in function dir()how to prevent code in your script from being executed when imported and how to use command line arguments with your Python programs
